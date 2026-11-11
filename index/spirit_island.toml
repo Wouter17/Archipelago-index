@@ -1,0 +1,6 @@
+name = "Spirit Island"
+home = "https://github.com/Wouter17/Spirit-Archipelago"
+default_url = "https://github.com/Wouter17/Spirit-Archipelago/releases/download/{{version}}/spirit_island.apworld"
+
+[versions]
+"0.1.5" = {}
